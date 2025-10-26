@@ -32,4 +32,3 @@ app.use('/rides', rideRoutes);
 
 
 module.exports = app;
-
